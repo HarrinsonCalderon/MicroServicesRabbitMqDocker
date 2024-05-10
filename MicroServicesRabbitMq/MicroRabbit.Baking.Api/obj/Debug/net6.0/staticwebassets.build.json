@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5e/+EDkHUB+O1PY5CtjN/ODEf8YXFlDk8wtQi7IJdh8=",
+  "Source": "MicroRabbit.Baking.Api",
+  "BasePath": "_content/MicroRabbit.Baking.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

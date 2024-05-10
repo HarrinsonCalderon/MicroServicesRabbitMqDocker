@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MicroRabbit.Baking.Api.props" />
+</Project>

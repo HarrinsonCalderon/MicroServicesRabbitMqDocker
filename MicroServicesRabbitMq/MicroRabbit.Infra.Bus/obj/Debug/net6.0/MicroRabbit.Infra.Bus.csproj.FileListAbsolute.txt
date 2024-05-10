@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Infra.Bus\bin\Debug\net6.0\MicroRabbit.Infra.Bus.deps.json
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Infra.Bus\bin\Debug\net6.0\MicroRabbit.Infra.Bus.dll
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Infra.Bus\bin\Debug\net6.0\MicroRabbit.Infra.Bus.pdb
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Infra.Bus\bin\Debug\net6.0\MicroRabbit.Domain.Core.dll
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Infra.Bus\bin\Debug\net6.0\MicroRabbit.Domain.Core.pdb
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Infra.Bus\obj\Debug\net6.0\MicroRabbit.Infra.Bus.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Infra.Bus\obj\Debug\net6.0\MicroRabbit.Infra.Bus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Infra.Bus\obj\Debug\net6.0\MicroRabbit.Infra.Bus.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Infra.Bus\obj\Debug\net6.0\MicroRabbit.Infra.Bus.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Infra.Bus\obj\Debug\net6.0\MicroRabbit.Infra.Bus.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Infra.Bus\obj\Debug\net6.0\MicroRabbit.Infra.Bus.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Infra.Bus\obj\Debug\net6.0\MicroRabbit.Infra.Bus.dll
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Infra.Bus\obj\Debug\net6.0\refint\MicroRabbit.Infra.Bus.dll
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Infra.Bus\obj\Debug\net6.0\MicroRabbit.Infra.Bus.pdb
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Infra.Bus\obj\Debug\net6.0\ref\MicroRabbit.Infra.Bus.dll

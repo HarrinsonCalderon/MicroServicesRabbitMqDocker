@@ -1,0 +1,17 @@
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Baking.Application\obj\Debug\net6.0\MicroRabbit.Baking.Application.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Baking.Application\obj\Debug\net6.0\MicroRabbit.Baking.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Baking.Application\obj\Debug\net6.0\MicroRabbit.Baking.Application.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Baking.Application\obj\Debug\net6.0\MicroRabbit.Baking.Application.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Baking.Application\obj\Debug\net6.0\MicroRabbit.Baking.Application.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Baking.Application\bin\Debug\net6.0\MicroRabbit.Baking.Application.deps.json
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Baking.Application\bin\Debug\net6.0\MicroRabbit.Baking.Application.dll
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Baking.Application\bin\Debug\net6.0\MicroRabbit.Baking.Application.pdb
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Baking.Application\bin\Debug\net6.0\MicroRabbit.Baking.Data.dll
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Baking.Application\bin\Debug\net6.0\MicroRabbit.Baking.Domain.dll
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Baking.Application\bin\Debug\net6.0\MicroRabbit.Baking.Data.pdb
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Baking.Application\bin\Debug\net6.0\MicroRabbit.Baking.Domain.pdb
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Baking.Application\obj\Debug\net6.0\MicroRabbit.Baking.Application.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Baking.Application\obj\Debug\net6.0\MicroRabbit.Baking.Application.dll
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Baking.Application\obj\Debug\net6.0\refint\MicroRabbit.Baking.Application.dll
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Baking.Application\obj\Debug\net6.0\MicroRabbit.Baking.Application.pdb
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Baking.Application\obj\Debug\net6.0\ref\MicroRabbit.Baking.Application.dll
