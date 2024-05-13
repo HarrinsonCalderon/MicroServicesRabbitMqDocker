@@ -866,6 +866,9 @@
       "MicroRabbit.Baking.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "MicroRabbit.Domain.Core": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/MicroRabbit.Baking.Domain.dll": {}
         },

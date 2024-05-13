@@ -10,3 +10,6 @@ C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\
 C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Baking.Domain\obj\Debug\net6.0\refint\MicroRabbit.Baking.Domain.dll
 C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Baking.Domain\obj\Debug\net6.0\MicroRabbit.Baking.Domain.pdb
 C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Baking.Domain\obj\Debug\net6.0\ref\MicroRabbit.Baking.Domain.dll
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Baking.Domain\bin\Debug\net6.0\MicroRabbit.Domain.Core.dll
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Baking.Domain\bin\Debug\net6.0\MicroRabbit.Domain.Core.pdb
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Baking.Domain\obj\Debug\net6.0\MicroRabbit.Baking.Domain.csproj.CopyComplete

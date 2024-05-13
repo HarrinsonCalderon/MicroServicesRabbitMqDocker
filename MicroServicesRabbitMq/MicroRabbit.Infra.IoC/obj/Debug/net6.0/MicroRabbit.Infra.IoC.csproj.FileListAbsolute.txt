@@ -1,8 +1,3 @@
-C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Infra.IoC\obj\Debug\net6.0\MicroRabbit.Infra.IoC.csproj.AssemblyReference.cache
-C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Infra.IoC\obj\Debug\net6.0\MicroRabbit.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Infra.IoC\obj\Debug\net6.0\MicroRabbit.Infra.IoC.AssemblyInfoInputs.cache
-C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Infra.IoC\obj\Debug\net6.0\MicroRabbit.Infra.IoC.AssemblyInfo.cs
-C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Infra.IoC\obj\Debug\net6.0\MicroRabbit.Infra.IoC.csproj.CoreCompileInputs.cache
 C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Infra.IoC\bin\Debug\net6.0\MicroRabbit.Infra.IoC.deps.json
 C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Infra.IoC\bin\Debug\net6.0\MicroRabbit.Infra.IoC.dll
 C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Infra.IoC\bin\Debug\net6.0\MicroRabbit.Infra.IoC.pdb
@@ -16,6 +11,11 @@ C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\
 C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Infra.IoC\bin\Debug\net6.0\MicroRabbit.Infra.Bus.pdb
 C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Infra.IoC\bin\Debug\net6.0\MicroRabbit.Baking.Data.pdb
 C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Infra.IoC\bin\Debug\net6.0\MicroRabbit.Baking.Domain.pdb
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Infra.IoC\obj\Debug\net6.0\MicroRabbit.Infra.IoC.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Infra.IoC\obj\Debug\net6.0\MicroRabbit.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Infra.IoC\obj\Debug\net6.0\MicroRabbit.Infra.IoC.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Infra.IoC\obj\Debug\net6.0\MicroRabbit.Infra.IoC.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Infra.IoC\obj\Debug\net6.0\MicroRabbit.Infra.IoC.csproj.CoreCompileInputs.cache
 C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Infra.IoC\obj\Debug\net6.0\MicroRabbit.Infra.IoC.csproj.CopyComplete
 C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Infra.IoC\obj\Debug\net6.0\MicroRabbit.Infra.IoC.dll
 C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Infra.IoC\obj\Debug\net6.0\refint\MicroRabbit.Infra.IoC.dll

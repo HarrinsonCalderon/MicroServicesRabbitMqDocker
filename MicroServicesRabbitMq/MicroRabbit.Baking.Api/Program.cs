@@ -1,6 +1,8 @@
 using MicroRabbit.Infra.IoC;
 using MicroRabbit.Baking.Data.Context;
 using Microsoft.EntityFrameworkCore;
+using MicroRabbit.Infra.Bus;
+using Microsoft.Extensions.Configuration;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -15,7 +17,14 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<BankingDbContext>(opt => opt.UseSqlServer(builder.Configuration.GetConnectionString("BackingDbConnection")));
 
 //IoC referencias e instancias hacia Ioc bus, domain, entity framework e inyecciones de sus repositorios
-DependencyContainer.RegisterServices(builder.Services, builder.Configuration);
+//DependencyContainer.RegisterServices(builder.Services, builder.Configuration);
+builder.Services.Configure<RabbitMQSettings>(builder.Configuration.GetSection("RabbitMQSettings"));
+builder.Services.RegisterServices(builder.Configuration);
+
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("CorsPolicy", builder => builder.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
+});
 
 var app = builder.Build();
 
@@ -29,6 +38,9 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
+
+//agregar para las cors
+app.UseCors("CorsPolicy");
 
 app.MapControllers();
 

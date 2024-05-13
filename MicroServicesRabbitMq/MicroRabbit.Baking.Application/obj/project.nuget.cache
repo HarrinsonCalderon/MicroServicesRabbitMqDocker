@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "KZn7g7xHL0smAcz6TM5mIYMLrYpiCOVdILsHM9vH+evdpaslgvfiWHCid8h95xKDuAfvD5ITSSRJTyGCYdoiFA==",
+  "dgSpecHash": "ZPcvU1yD/xSuwS0ag8r2HT5slt1yul7Kuo8Nv2GS8PXKFSmjIZbveLqmzM3VAp/+uPVpwGGGpj4yV0Z7IEyrnw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Baking.Application\\MicroRabbit.Baking.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
