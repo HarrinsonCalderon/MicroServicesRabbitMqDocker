@@ -1,0 +1,3 @@
+docker run -d --hostname rabbit-server --name rabbit-vaxi-web -p 5672:5672 -p  15672:15672 rabbitmq:3.9.12-management
+
+docker exec -it rabbit-vaxi-web bash

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "zvc41qV3W25kfF5u3+v+DxEghJnVzqB2/uAbPn12hKy0gcxHSzWqRtBQ3R8RmYZfLSVqYzYPd70R0O+GiEVM3w==",
+  "dgSpecHash": "QE2jzL6VU8G+6uOLXJFz3V4OuMSQzxZEFJQQmudjJmZz/PqvhwdIo5L61k0NkSuAvRoc2c76f+VRI0rofc+wYA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Baking.Api\\MicroRabbit.Baking.Api.csproj",
   "expectedPackageFiles": [

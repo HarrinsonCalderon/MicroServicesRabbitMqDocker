@@ -1,0 +1,709 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Tranfer.Api\\MicroRabbit.Tranfer.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Baking.Application\\MicroRabbit.Baking.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Baking.Application\\MicroRabbit.Baking.Application.csproj",
+        "projectName": "MicroRabbit.Baking.Application",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Baking.Application\\MicroRabbit.Baking.Application.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Baking.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Baking.Data\\MicroRabbit.Baking.Data.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Baking.Data\\MicroRabbit.Baking.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Baking.Data\\MicroRabbit.Baking.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Baking.Data\\MicroRabbit.Baking.Data.csproj",
+        "projectName": "MicroRabbit.Baking.Data",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Baking.Data\\MicroRabbit.Baking.Data.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Baking.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Baking.Domain\\MicroRabbit.Baking.Domain.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Baking.Domain\\MicroRabbit.Baking.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Baking.Domain\\MicroRabbit.Baking.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Baking.Domain\\MicroRabbit.Baking.Domain.csproj",
+        "projectName": "MicroRabbit.Baking.Domain",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Baking.Domain\\MicroRabbit.Baking.Domain.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Baking.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj",
+        "projectName": "MicroRabbit.Domain.Core",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Infra.Bus\\MicroRabbit.Infra.Bus.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Infra.Bus\\MicroRabbit.Infra.Bus.csproj",
+        "projectName": "MicroRabbit.Infra.Bus",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Infra.Bus\\MicroRabbit.Infra.Bus.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Infra.Bus\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Infra.IoC\\MicroRabbit.Infra.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Infra.IoC\\MicroRabbit.Infra.IoC.csproj",
+        "projectName": "MicroRabbit.Infra.IoC",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Infra.IoC\\MicroRabbit.Infra.IoC.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Infra.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Baking.Application\\MicroRabbit.Baking.Application.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Baking.Application\\MicroRabbit.Baking.Application.csproj"
+              },
+              "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj"
+              },
+              "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Infra.Bus\\MicroRabbit.Infra.Bus.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Infra.Bus\\MicroRabbit.Infra.Bus.csproj"
+              },
+              "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Tranfer.Data\\MicroRabbit.Tranfer.Data.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Tranfer.Data\\MicroRabbit.Tranfer.Data.csproj"
+              },
+              "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Transfer.Application\\MicroRabbit.Transfer.Application.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Transfer.Application\\MicroRabbit.Transfer.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Tranfer.Api\\MicroRabbit.Tranfer.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Tranfer.Api\\MicroRabbit.Tranfer.Api.csproj",
+        "projectName": "MicroRabbit.Tranfer.Api",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Tranfer.Api\\MicroRabbit.Tranfer.Api.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Tranfer.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Infra.IoC\\MicroRabbit.Infra.IoC.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Infra.IoC\\MicroRabbit.Infra.IoC.csproj"
+              },
+              "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Tranfer.Data\\MicroRabbit.Tranfer.Data.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Tranfer.Data\\MicroRabbit.Tranfer.Data.csproj"
+              },
+              "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Transfer.Application\\MicroRabbit.Transfer.Application.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Transfer.Application\\MicroRabbit.Transfer.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Tranfer.Data\\MicroRabbit.Tranfer.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Tranfer.Data\\MicroRabbit.Tranfer.Data.csproj",
+        "projectName": "MicroRabbit.Tranfer.Data",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Tranfer.Data\\MicroRabbit.Tranfer.Data.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Tranfer.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Tranfer.Domain\\MicroRabbit.Tranfer.Domain.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Tranfer.Domain\\MicroRabbit.Tranfer.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Tranfer.Domain\\MicroRabbit.Tranfer.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Tranfer.Domain\\MicroRabbit.Tranfer.Domain.csproj",
+        "projectName": "MicroRabbit.Tranfer.Domain",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Tranfer.Domain\\MicroRabbit.Tranfer.Domain.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Tranfer.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Transfer.Application\\MicroRabbit.Transfer.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Transfer.Application\\MicroRabbit.Transfer.Application.csproj",
+        "projectName": "MicroRabbit.Transfer.Application",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Transfer.Application\\MicroRabbit.Transfer.Application.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Transfer.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Tranfer.Data\\MicroRabbit.Tranfer.Data.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Desktop\\Kubernetes\\MicroServicesRabbitMq\\MicroServicesRabbitMq\\MicroRabbit.Tranfer.Data\\MicroRabbit.Tranfer.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

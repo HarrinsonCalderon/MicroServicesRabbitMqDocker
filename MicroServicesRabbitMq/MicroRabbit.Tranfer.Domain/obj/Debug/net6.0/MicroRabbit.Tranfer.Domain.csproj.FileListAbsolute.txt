@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Tranfer.Domain\bin\Debug\net6.0\MicroRabbit.Tranfer.Domain.deps.json
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Tranfer.Domain\bin\Debug\net6.0\MicroRabbit.Tranfer.Domain.dll
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Tranfer.Domain\bin\Debug\net6.0\MicroRabbit.Tranfer.Domain.pdb
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Tranfer.Domain\bin\Debug\net6.0\MicroRabbit.Domain.Core.dll
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Tranfer.Domain\bin\Debug\net6.0\MicroRabbit.Domain.Core.pdb
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Tranfer.Domain\obj\Debug\net6.0\MicroRabbit.Tranfer.Domain.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Tranfer.Domain\obj\Debug\net6.0\MicroRabbit.Tranfer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Tranfer.Domain\obj\Debug\net6.0\MicroRabbit.Tranfer.Domain.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Tranfer.Domain\obj\Debug\net6.0\MicroRabbit.Tranfer.Domain.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Tranfer.Domain\obj\Debug\net6.0\MicroRabbit.Tranfer.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Tranfer.Domain\obj\Debug\net6.0\MicroRabbit.Tranfer.Domain.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Tranfer.Domain\obj\Debug\net6.0\MicroRabbit.Tranfer.Domain.dll
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Tranfer.Domain\obj\Debug\net6.0\refint\MicroRabbit.Tranfer.Domain.dll
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Tranfer.Domain\obj\Debug\net6.0\MicroRabbit.Tranfer.Domain.pdb
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Tranfer.Domain\obj\Debug\net6.0\ref\MicroRabbit.Tranfer.Domain.dll

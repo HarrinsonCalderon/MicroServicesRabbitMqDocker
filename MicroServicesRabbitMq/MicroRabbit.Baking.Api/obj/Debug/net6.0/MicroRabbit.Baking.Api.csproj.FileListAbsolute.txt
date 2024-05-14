@@ -84,3 +84,9 @@ C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\
 C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Baking.Api\obj\Debug\net6.0\ref\MicroRabbit.Baking.Api.dll
 C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Baking.Api\bin\Debug\net6.0\Humanizer.dll
 C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Baking.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Baking.Api\bin\Debug\net6.0\MicroRabbit.Tranfer.Data.dll
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Baking.Api\bin\Debug\net6.0\MicroRabbit.Tranfer.Domain.dll
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Baking.Api\bin\Debug\net6.0\MicroRabbit.Transfer.Application.dll
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Baking.Api\bin\Debug\net6.0\MicroRabbit.Tranfer.Data.pdb
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Baking.Api\bin\Debug\net6.0\MicroRabbit.Tranfer.Domain.pdb
+C:\Users\Usuario\Desktop\Kubernetes\MicroServicesRabbitMq\MicroServicesRabbitMq\MicroRabbit.Baking.Api\bin\Debug\net6.0\MicroRabbit.Transfer.Application.pdb

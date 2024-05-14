@@ -1034,6 +1034,8 @@
           "MicroRabbit.Baking.Application": "1.0.0",
           "MicroRabbit.Domain.Core": "1.0.0",
           "MicroRabbit.Infra.Bus": "1.0.0",
+          "MicroRabbit.Tranfer.Data": "1.0.0",
+          "MicroRabbit.Transfer.Application": "1.0.0",
           "Microsoft.Extensions.Configuration.Abstractions": "8.0.0",
           "Microsoft.Extensions.DependencyInjection": "6.0.0"
         },
@@ -1042,6 +1044,47 @@
         },
         "runtime": {
           "bin/placeholder/MicroRabbit.Infra.IoC.dll": {}
+        }
+      },
+      "MicroRabbit.Tranfer.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "MicroRabbit.Tranfer.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "6.0.1",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.1"
+        },
+        "compile": {
+          "bin/placeholder/MicroRabbit.Tranfer.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MicroRabbit.Tranfer.Data.dll": {}
+        }
+      },
+      "MicroRabbit.Tranfer.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "MicroRabbit.Domain.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MicroRabbit.Tranfer.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MicroRabbit.Tranfer.Domain.dll": {}
+        }
+      },
+      "MicroRabbit.Transfer.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "MicroRabbit.Tranfer.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MicroRabbit.Transfer.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MicroRabbit.Transfer.Application.dll": {}
         }
       }
     }
@@ -2581,6 +2624,21 @@
       "type": "project",
       "path": "../MicroRabbit.Infra.IoC/MicroRabbit.Infra.IoC.csproj",
       "msbuildProject": "../MicroRabbit.Infra.IoC/MicroRabbit.Infra.IoC.csproj"
+    },
+    "MicroRabbit.Tranfer.Data/1.0.0": {
+      "type": "project",
+      "path": "../MicroRabbit.Tranfer.Data/MicroRabbit.Tranfer.Data.csproj",
+      "msbuildProject": "../MicroRabbit.Tranfer.Data/MicroRabbit.Tranfer.Data.csproj"
+    },
+    "MicroRabbit.Tranfer.Domain/1.0.0": {
+      "type": "project",
+      "path": "../MicroRabbit.Tranfer.Domain/MicroRabbit.Tranfer.Domain.csproj",
+      "msbuildProject": "../MicroRabbit.Tranfer.Domain/MicroRabbit.Tranfer.Domain.csproj"
+    },
+    "MicroRabbit.Transfer.Application/1.0.0": {
+      "type": "project",
+      "path": "../MicroRabbit.Transfer.Application/MicroRabbit.Transfer.Application.csproj",
+      "msbuildProject": "../MicroRabbit.Transfer.Application/MicroRabbit.Transfer.Application.csproj"
     }
   },
   "projectFileDependencyGroups": {
