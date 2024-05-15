@@ -10,6 +10,10 @@ using MicroRabbit.Tranfer.Data.Repository;
 using MediatR;
 using MicroRabbit.Infra.Bus;
 using MicroRabbit.Infra.IoC;
+using MicroRabbit.Domain.Core.Bus;
+using MicroRabbit.Tranfer.Domain.EventHandlers;
+using MicroRabbit.Tranfer.Domain.Events;
+using System.Net.WebSockets;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -35,8 +39,9 @@ builder.Services.AddTransient<ITransferService, TransfersService>();
 //Data
 builder.Services.AddTransient<ITransRepository, TransRepository>();
 builder.Services.AddTransient<TransferDbContext>();
+builder.Services.AddTransient<IEventHandler<TransferCreatedEvent>, TransferEventHandler>();
 
-
+ 
 
 builder.Services.AddCors(options =>
 {
@@ -44,6 +49,9 @@ builder.Services.AddCors(options =>
 });
 
 var app = builder.Build();
+
+var eventBus=app.Services.GetRequiredService<IEventBus>();
+eventBus.Subscribe<TransferCreatedEvent, TransferEventHandler>();
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

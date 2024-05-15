@@ -8,7 +8,7 @@ namespace MicroRabbit.Domain.Core.Bus
         where TEvent:Event
     {
 
-    Task Handle(ThreadExceptionEventArgs @event);
+    Task Handle(TEvent @event);
     
     }
     
